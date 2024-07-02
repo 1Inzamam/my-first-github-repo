@@ -1,4 +1,6 @@
 div{
     background-color: cyan;
     border:5px solid blue;
+    margin: 5px;
+    border-radius: 5px;
 }
